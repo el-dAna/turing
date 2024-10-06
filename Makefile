@@ -5,17 +5,14 @@ install:
 
 test:
 	echo "TESTING CODE"
-	#python -m pytest -vv --cov=cli --cov=mlib --cov=utilscli --cov=app test_mlib.py
 	python test.py 
 
 format:
 	echo "FORMATING CODE"
-	#black *.py ./mylib/appfunctions.py ./pages ./utils/rnn_predict.py
 	black --line-length 50  app.py
 
 lint:
 	echo "LINTING CODE"
-	#pylint --disable=R,C,W1203,E1101,E0401,W0612,W0718 *.py ./mylib/appfunctions.py ./pages ./utils/rnn_predict.py ./utils/clearmlsdk_functions.py
 	pylint app.py
 
 #pylint --disable=R,C,W1203,E1101 utils #cli #utilscli
