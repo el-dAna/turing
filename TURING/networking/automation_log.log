@@ -1,0 +1,346 @@
+2024-10-06 12:00:42,870:INFO:Output: Current Date: 10/06/2024 12:00:42
+Cutoff Date: 10/04/2024 12:00:42
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+No old log files to clear.
+
+2024-10-06 12:00:59,873:INFO:Output: Current Date: 10/06/2024 12:00:59
+Cutoff Date: 10/04/2024 12:00:59
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 12:28:06,711:INFO:Output: Current Date: 10/06/2024 12:28:06
+Cutoff Date: 10/04/2024 12:28:06
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 12:41:28,727:ERROR:Unhandled exception: 'Scripts'
+2024-10-06 12:41:40,631:ERROR:Unhandled exception: 'Scripts'
+2024-10-06 12:42:52,298:ERROR:Unhandled exception: 'Scripts'
+2024-10-06 12:43:03,939:ERROR:Unhandled exception: 'Scripts'
+2024-10-06 12:47:41,105:ERROR:Assertion error: Directory does not exist: C:\Users\BenjaminAtadana\YandexDisk\MY_FILES\Visual_Studio_Codes\TURING\CI-CD\clear-powershell-script.ps1C:\path\to\your
+2024-10-06 12:47:44,873:ERROR:Assertion error: Directory does not exist: C:\Users\BenjaminAtadana\YandexDisk\MY_FILES\Visual_Studio_Codes\TURING\CI-CD\clear-powershell-script.ps1C:\path\to\your
+2024-10-06 12:56:16,071:ERROR:Assertion error: Directory does not exist: C:\Users\BenjaminAtadana\YandexDisk\MY_FILES\Visual_Studio_Codes\TURING\CI-CD\clear-powershell-script.ps1C:\path\to\your
+2024-10-06 13:05:41,504:INFO:Output: Current Date: 10/06/2024 13:05:41
+Cutoff Date: 10/04/2024 13:05:41
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 13:05:41,504:INFO:Script execution finished.
+2024-10-06 13:06:01,479:INFO:Output: Current Date: 10/06/2024 13:06:01
+Cutoff Date: 10/04/2024 13:06:01
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 13:06:01,479:INFO:Script execution finished.
+2024-10-06 13:10:25,284:ERROR:Assertion error: Script path not found in configuration: C:\Users\BenjaminAtadana\YandexDisk\MY_FILES\Visual_Studio_Codes\TURING\CI-CD\clear-powershell-script.ps1
+2024-10-06 13:12:35,610:INFO:Output: Current Date: 10/06/2024 13:12:35
+Cutoff Date: 10/04/2024 13:12:35
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 13:14:06,677:INFO:Output: Current Date: 10/06/2024 13:14:06
+Cutoff Date: 10/04/2024 13:14:06
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 13:20:27,599:INFO:Output: Current Date: 10/06/2024 13:20:27
+Cutoff Date: 10/04/2024 13:20:27
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 13:20:40,936:INFO:Output: Current Date: 10/06/2024 13:20:40
+Cutoff Date: 10/04/2024 13:20:40
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 13:27:00,270:INFO:Output: Current Date: 10/06/2024 13:27:00
+Cutoff Date: 10/04/2024 13:27:00
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 13:45:10,390:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:46:33,048:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:47:00,828:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:47:14,641:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:47:23,756:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:49:09,927:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:49:51,524:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:50:02,588:CRITICAL:Failed to execute the main function: 'Security'
+2024-10-06 13:59:53,231:INFO:Output: Current Date: 10/06/2024 13:59:53
+Cutoff Date: 10/04/2024 13:59:53
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:00:19,175:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:00:19,175:CRITICAL:Failed to execute the main function: User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:00:21,771:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:00:21,771:CRITICAL:Failed to execute the main function: User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:00:27,723:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:00:27,723:CRITICAL:Failed to execute the main function: User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:00:46,405:INFO:Output: Current Date: 10/06/2024 14:00:46
+Cutoff Date: 10/04/2024 14:00:46
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:01:06,653:INFO:Output: Current Date: 10/06/2024 14:01:06
+Cutoff Date: 10/04/2024 14:01:06
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:04:54,794:CRITICAL:Failed to execute the main function: Config file integrity check failed.
+2024-10-06 14:05:10,819:CRITICAL:Failed to execute the main function: Config file integrity check failed.
+2024-10-06 14:05:22,875:CRITICAL:Failed to execute the main function: Config file integrity check failed.
+2024-10-06 14:08:28,404:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:08:28,404:CRITICAL:Failed to execute the main function: User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:08:53,749:INFO:Output: Current Date: 10/06/2024 14:08:53
+Cutoff Date: 10/04/2024 14:08:53
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:10:41,258:INFO:Output: Current Date: 10/06/2024 14:10:41
+Cutoff Date: 10/04/2024 14:10:41
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+No old log files to clear.
+
+2024-10-06 14:11:13,483:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:11:13,483:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:11:16,633:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:11:16,633:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:11:24,733:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:11:24,733:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:11:30,535:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:11:30,535:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:11:44,050:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:11:44,050:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:11:48,099:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:11:48,099:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:11:56,049:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:11:56,049:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:13:56,865:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:13:56,866:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:14:05,029:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:14:05,029:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:14:36,197:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:14:36,197:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:16:26,078:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:16:26,078:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:16:33,099:ERROR:Unauthorized user: BenjaminAtadana
+2024-10-06 14:16:33,099:CRITICAL:Failed to execute the main function: You are not authorized to execute this script.
+2024-10-06 14:17:45,529:INFO:Output: Current Date: 10/06/2024 14:17:45
+Cutoff Date: 10/04/2024 14:17:45
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:20:16,724:INFO:Output: Current Date: 10/06/2024 14:20:16
+Cutoff Date: 10/04/2024 14:20:16
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:22:28,262:INFO:Output: Current Date: 10/06/2024 14:22:28
+Cutoff Date: 10/04/2024 14:22:28
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:23:07,008:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:23:07,008:CRITICAL:Failed to execute the main function: User is not authorized to execute this script.
+2024-10-06 14:23:56,718:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:23:56,718:CRITICAL:Failed to execute the main function: User is not authorized to execute this script.
+2024-10-06 14:25:07,395:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:25:09,278:INFO:Output: Current Date: 10/06/2024 14:25:09
+Cutoff Date: 10/04/2024 14:25:09
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:25:37,139:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:25:39,174:INFO:Output: Current Date: 10/06/2024 14:25:39
+Cutoff Date: 10/04/2024 14:25:39
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+
+2024-10-06 14:26:05,692:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:27:22,347:INFO:Output: Current Date: 10/06/2024 14:27:22
+Cutoff Date: 10/04/2024 14:27:22
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+No old log files to clear.
+
+2024-10-06 14:27:34,329:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:29:30,626:ERROR:User 'BenjaminAtadana' is not authorized to execute this script.
+2024-10-06 14:29:38,799:INFO:Output: Current Date: 10/06/2024 14:29:38
+Cutoff Date: 10/04/2024 14:29:38
+Checking file: log1.log Last Write Time: 10/06/2024 11:35:27
+Checking file: log_2024_10_01.log Last Write Time: 10/01/2024 00:00:00
+Checking file: log_2024_10_02.log Last Write Time: 10/02/2024 00:00:00
+Checking file: log_2024_10_03.log Last Write Time: 10/03/2024 00:00:00
+Checking file: log_2024_10_04.log Last Write Time: 10/04/2024 00:00:00
+Checking file: log_2024_10_05.log Last Write Time: 10/05/2024 00:00:00
+Old log files cleared:
+log_2024_10_01.log
+log_2024_10_02.log
+log_2024_10_03.log
+log_2024_10_04.log
+

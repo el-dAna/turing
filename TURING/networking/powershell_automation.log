@@ -1,0 +1,2 @@
+2024-10-06 12:07:26,623:ERROR:An error occurred while running the script: Command '['powershell', '-ExecutionPolicy', 'Bypass', '-File', 'path_to_powershell_script.ps1']' returned non-zero exit status 4294770688.
+2024-10-06 12:07:40,352:ERROR:An error occurred while running the script: Command '['powershell', '-ExecutionPolicy', 'Bypass', '-File', 'path_to_powershell_script.ps1']' returned non-zero exit status 4294770688.
