@@ -9,11 +9,11 @@ test:
 
 format:
 	echo "FORMATING CODE"
-	black --line-length 50  app.py
+	black --line-length 50 hmm.py
 
 lint:
 	echo "LINTING CODE"
-	pylint app.py
+	pylint hmm.py
 
 #pylint --disable=R,C,W1203,E1101 utils #cli #utilscli
 #python -m pytest -vv test_main.py
