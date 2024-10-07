@@ -9,7 +9,7 @@ test:
 
 format:
 	echo "FORMATING CODE"
-	black --line-length 50 hmm.py
+	black --line-length 50 app.py
 
 lint:
 	echo "LINTING CODE"
