@@ -1,35 +1,26 @@
-install:
-	echo "INSTALLING PACKAGES"
-	pip install --upgrade pip && \
-		pip install -r requirements.txt
+# .github/workflows/python-app.yml
 
-test:
-	echo "TESTING CODE"
-	#python -m pytest -vv --cov=cli --cov=mlib --cov=utilscli --cov=app test_mlib.py
-	python test.py 
+name: Python application
 
-format:
-	echo "FORMATING CODE"
-	#black *.py ./mylib/appfunctions.py ./pages ./utils/rnn_predict.py
-	black --line-length 50  app.py
+on: [push]
 
-lint:
-	echo "LINTING CODE"
-	#pylint --disable=R,C,W1203,E1101,E0401,W0612,W0718 *.py ./mylib/appfunctions.py ./pages ./utils/rnn_predict.py ./utils/clearmlsdk_functions.py
-	pylint app.py
+jobs:
+  build:
 
-#pylint --disable=R,C,W1203,E1101 utils #cli #utilscli
-#python -m pytest -vv test_main.py
-#pylint --disable=R,C,W1203,E1101 mlib cli utilscli
-#lint Dockerfile
-#docker run --rm -i hadolint/hadolint < Dockerfile
+    runs-on: ubuntu-latest
 
-# deploy:
-# 	#push to ECR for deploy
-# 	aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 561744971673.dkr.ecr.us-east-1.amazonaws.com
-# 	docker build -t mlops .
-# 	docker tag mlops:latest 561744971673.dkr.ecr.us-east-1.amazonaws.com/mlops:latest
-# 	docker push 561744971673.dkr.ecr.us-east-1.amazonaws.com/mlops:latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run tests
+      run: |
+        python test.py
 
-	
-all: install lint test format
+		
