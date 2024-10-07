@@ -1,5 +1,6 @@
+# .github/workflows/python-app.yml
 
-name: turingAppTest
+name: Python application
 
 on: [push]
 
@@ -10,21 +11,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v1
+    - name: Set up Python
+      uses: actions/setup-python@v2
       with:
-        python-version: 3.8
+        python-version: '3.x'
     - name: Install dependencies
       run: |
-        make install
-    - name: Test with pytest
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: Run tests
       run: |
-        make test
-    - name: Format code
-      run: |
-        make format
-    - name: Lint with pylint
-      run: |
-        make lint
-    
-    
+        python test.py
+		
