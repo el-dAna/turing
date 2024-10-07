@@ -1,6 +1,9 @@
-name: Python application test
 
-on: [push]
+name: ideal-yaml-file
+
+on:
+  push:
+    branches: [ main ]
 
 jobs:
   build:
@@ -9,14 +12,21 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python
-      uses: actions/setup-python@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
       with:
-        python-version: '3.x'
+        python-version: 3.x
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
-    - name: Run tests
+        make install
+    - name: Test with pytest
       run: |
-        python test.py
+        make test
+    - name: Format code
+      run: |
+        make format
+    - name: Lint with pylint
+      run: |
+        make lint
+    
+    
