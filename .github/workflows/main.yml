@@ -3,7 +3,8 @@ name: Python Continuous Testing
 on:
   push:
     paths:
-      - '/workspaces/turing*'
+      - '/workspaces/turing/app.py'
+      - '/workspaces/turing/test.py'
     branches:
       - main
 
