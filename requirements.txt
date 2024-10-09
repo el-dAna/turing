@@ -2,3 +2,5 @@ numpy
 black
 lint
 autopep8
+pandas
+scikit-learn
