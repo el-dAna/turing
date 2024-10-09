@@ -1,60 +1,37 @@
-import numpy as np
+def add(x, y):
+    """Return the sum of x and y."""
+    return x + y
 
+def subtract(x, y):
+    """Return the difference of x and y (x - y)."""
+    return x - y
 
-def greet(name):
-    """
-    Print a greeting message to the user.
+def multiply(x, y):
+    """Return the product of x and y."""
+    return x * y
 
-    Parameters:
-    name (str): The name of the person to greet.
+def divide(x, y):
+    """Return the quotient of x and y (x / y)."""
+    if y == 0:
+        return "Error: Division by zero!"
+    return x / y
 
-    Example:
-    >>> greet("Alice")
-    Hello, Alice!
-    """
-    print(f"Hello, {name}!")
-
-
-def multiply(a, b):
-    """
-    Multiply two numbers using 64-bit integer representation.
-
-    This function converts the inputs to 64-bit integers and returns their product.
-
-    Parameters:
-    a (int or float): The first number to multiply.
-    b (int or float): The second number to multiply.
-
-    Returns:
-    int: The product of a and b as a 64-bit integer.
-
-    Example:
-    >>> multiply(5, 3)
-    15
-    """
-    a = np.int64(a)
-    b = np.int64(b)
-    return a * b
-
+def exponentiate(base, exponent):
+    """Return base raised to the power of exponent."""
+    return base ** exponent
 
 def main():
-    """
-    Main function to execute the greeting and multiplication operations.
-
-    This function greets the user and performs a multiplication of two numbers,
-    then prints the result.
-
-    Example:
-    >>> main()
-    Hello, World!
-    The multiplication result is: 15
-    """
-    greet("World")
-    result = multiply(5, 3)
-    print(
-        f"The multiplication result is: {result}"
-    )
-
+    print("Mathematical Functions:")
+    
+    # Example usage of each function
+    a = 10
+    b = 5
+    
+    print(f"Addition: {a} + {b} = {add(a, b)}")
+    print(f"Subtraction: {a} - {b} = {subtract(a, b)}")
+    print(f"Multiplication: {a} * {b} = {multiply(a, b)}")
+    print(f"Division: {a} / {b} = {divide(a, b)}")
+    print(f"Exponentiation: {a} ** {b} = {exponentiate(a, b)}")
 
 if __name__ == "__main__":
     main()

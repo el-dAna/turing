@@ -9,7 +9,8 @@ test:
 
 format:
 	echo "FORMATING CODE"
-	black --line-length 50 app.py
+	black --line-length 50 test.py
+	autopep8 --in-place --aggressive --aggressive test.py
 
 lint:
 	echo "LINTING CODE"

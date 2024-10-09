@@ -1,5 +1,5 @@
 
-name: ideal-yaml-file
+name: model_A
 
 on:
   push:
