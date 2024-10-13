@@ -8,4 +8,4 @@ ID,Name,Age,Salary,Department
 7,Mike Davis,,55000,HR
 8,Susan Lee,,65000,Marketing
 9,Bob Johnson,,60000,Sales  # Duplicate entry with missing Age
-10,Dave Wilson,45,NAN,NAN  # NaN Salary and Department
+10,Dave Wilson,45,NAN,NAN  # NaN Salary and

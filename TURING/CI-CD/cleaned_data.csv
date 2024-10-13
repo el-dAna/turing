@@ -1,0 +1,10 @@
+Name,Age,Salary,Department_HR,Department_Marketing,Department_NAN  # Missing Name and NaN Department,Department_NAN  # NaN Salary and,Department_Sales,Department_Sales  # Duplicate entry with missing Age
+John Doe,28.0,50000.0,False,False,False,False,False,False
+Jane Smith,34.333333333333336,60000.0,False,True,False,False,False,False
+Bob Johnson,35.0,58571.42857142857,False,False,False,False,True,False
+Alice Brown,30.0,58571.42857142857,False,False,False,False,False,False
+,40.0,70000.0,False,False,True,False,False,False
+Mike Davis,34.333333333333336,55000.0,True,False,False,False,False,False
+Susan Lee,34.333333333333336,65000.0,False,True,False,False,False,False
+Bob Johnson,34.333333333333336,60000.0,False,False,False,False,False,True
+Dave Wilson,45.0,58571.42857142857,False,False,False,True,False,False
